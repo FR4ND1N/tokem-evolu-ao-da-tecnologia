@@ -60,7 +60,7 @@ if (sn==2)
  if (sn==1)
  
  {
- 	printf("Oque voce aprendeu com a exposicao ? \n");
+ 	printf("O que voce aprendeu com a exposicao ? \n");
  	
  	
  	scanf("%f" ,&oa);
